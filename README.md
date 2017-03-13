@@ -8,7 +8,7 @@
 * [Screen Shots] (#Shots)
 
 ## Challenege
-A fully functioning Virtual Learning Environment where users can drag and drop files/folders into a main repository. The website reads the file structure and creates the links. The VLE has an upload feature, feedback for students area, YouTube video integration, image and image thumbnail integration and web links.
+A fully functioning Virtual Learning Environment where users can drag and drop files/folders into a main repository. The website reads the file structure and creates the links. The VLE has an upload feature, feedback for students area, YouTube video integration, image and image thumbnail integration, Hot Potatoe quiz integration and web links.
 
 ## <a name="Install">Installation</a>
 * To clone the repo
